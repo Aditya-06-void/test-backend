@@ -25,6 +25,5 @@ npm test
 
 ```bash
 docker build -t test-backend .
-docker run --rm -p 3000:3000 test-backend
+docker run --rm -p 3006:3006 test-backend
 ```
-
